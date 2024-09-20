@@ -1,0 +1,63 @@
+<site-list version="13">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>10/13/2023 18:00:02</date-created>
+  </created-by>
+  <site url="ult-crm.cu.rbcu.org/ufemycutrain/">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ult-crm.cu.rbcu.org/ufemycuconv">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ult-crm.cu.rbcu.org/ufemycubase/">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="efunds.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="chexsystems.fisglobal.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="production.penleyinc.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="useradmin.efunds.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="170.209.0.2/fedline-solutions/applications/fedach">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="dna-rpt/cview">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="apps.pscufs.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="members.pscufs.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="members.pscufs.com/dashboard">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+ <site url="rownetv5.firstdataclients.com/ddrint/Servlet/ddrint">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+ </site>
+<site url="ult-crm.cu.rbcu.org/">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
